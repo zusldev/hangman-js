@@ -37,7 +37,7 @@ let losses = 0;
 let exit = false;
 
 
-while (exit != true) {
+while (exit !== true) {
   let ask = input('Type "play" to play the game, "results" to show the scoreboard, and "exit" to quit:');
   switch (ask) {
     case 'play':
