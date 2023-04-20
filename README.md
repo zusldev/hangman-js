@@ -18,4 +18,4 @@ You will be prompted to type "play" to start the game, "results" to see the scor
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
